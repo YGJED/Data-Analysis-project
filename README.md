@@ -10,10 +10,11 @@ This project performs data analysis on physiological data, such as blood pressur
 - A Python script for users who prefer or need to run the analysis in a non-notebook environment.
 
 File Structure
-physiological data-analysis.ipynb:
-The main notebook file for interactive exploration and analysis.
-Includes styled visualizations, tables, and in-line results.
-Recommended for users who wish to explore or modify the analysis interactively.
+
+- physiological data-analysis.ipynb:
+  - The main notebook file for interactive exploration and analysis.
+  - Includes styled visualizations, tables, and in-line results.
+  - Recommended for users who wish to explore or modify the analysis interactively.
 physiological data-analysis.py:
 The script version of the notebook.
 Contains the same analysis logic, but without the inline outputs or Markdown explanations.
