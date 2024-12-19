@@ -5,9 +5,9 @@ Project Overview
 
 This project performs data analysis on physiological data, such as blood pressure, age distributions, hemoglobin levels, and blood sugar levels. It includes:
 
-A Jupyter Notebook for interactive analysis with visualizations.
+- A Jupyter Notebook for interactive analysis with visualizations.
 
-A Python script for users who prefer or need to run the analysis in a non-notebook environment.
+- A Python script for users who prefer or need to run the analysis in a non-notebook environment.
 
 File Structure
 physiological data-analysis.ipynb:
