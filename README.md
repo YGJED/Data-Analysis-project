@@ -15,19 +15,22 @@ File Structure
   - The main notebook file for interactive exploration and analysis.
   - Includes styled visualizations, tables, and in-line results.
   - Recommended for users who wish to explore or modify the analysis interactively.
-physiological data-analysis.py:
-The script version of the notebook.
-Contains the same analysis logic, but without the inline outputs or Markdown explanations.
-Ideal for running the analysis as a script in any Python environment.
+
+- physiological data-analysis.py:
+  - The script version of the notebook.
+  - Contains the same analysis logic, but without the inline outputs or Markdown explanations.
+  - Ideal for running the analysis as a script in any Python environment.
+ 
+
 How to Use
 Requirements
 Ensure you have the following Python libraries installed:
 
-pandas
-numpy
-matplotlib
-seaborn
-openpyxl
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- openpyxl
 
 
 Interactive Notebook
